@@ -22,10 +22,10 @@ This project provides a comprehensive business analysis of the **Olist Brazilian
 ![Top Revenue Cities](images/4_revenue_per_city.png)
 
 ### 2. Average Order Value (AOV)
-![Top AOV Cities](5_aov_per_city.png)
+![Top AOV Cities](images/5_aov_per_city.png)
 
 ### 3. Hourly Shopping Behavior
-![Hourly Trends](2_hourly_behavior.png)
+![Hourly Trends](images/2_hourly_behavior.png)
 
 ## 📂 Project Structure
 * `olist_full_analysis.R`: The master script containing the full data pipeline.
